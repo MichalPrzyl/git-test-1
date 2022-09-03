@@ -1,2 +1,2 @@
 first_line
-second line on master branch
+second line on after merging
