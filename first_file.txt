@@ -1,4 +1,2 @@
 first_line
 second line in another branch
-
-this is things should only be here locally
